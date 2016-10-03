@@ -5,3 +5,5 @@
 
 * yoga
 * reading
+
+and all other kind of 
